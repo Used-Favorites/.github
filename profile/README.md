@@ -1,4 +1,4 @@
-# Swap
+# Swap 🔄💻
 
 ## Introdução
 
@@ -11,7 +11,7 @@ Bem-vindo ao Swap, o seu marketplace online para troca de produtos eletrônicos 
 - **Perfil do Usuário:** Cada usuário possui um perfil personalizado onde podem gerenciar suas listagens, verificar suas trocas e interagir com outros usuários.
 - **Busca Avançada:** Utilize nossa busca avançada para encontrar produtos específicos por categoria, marca, estado e muito mais.
 
-## Como Contribuir
+## Como Contribuir 🤝
 
 Estamos sempre abertos a contribuições para tornar o Swap ainda melhor! Se você é um desenvolvedor interessado em colaborar, veja como você pode ajudar:
 
@@ -21,12 +21,12 @@ Estamos sempre abertos a contribuições para tornar o Swap ainda melhor! Se voc
 4. **Teste:** Antes de enviar suas alterações, certifique-se de testá-las localmente.
 5. **Envie um Pull Request:** Assim que estiver satisfeito com suas alterações, envie um pull request descrevendo suas contribuições.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠️
 
 - Angular: Utilizado para a construção do front-end da aplicação.
 - Node.js: Utilizado para o desenvolvimento do servidor back-end.
 - MongoDB: Banco de dados utilizado para armazenar informações dos produtos e usuários.
 
-## Licença
+## Licença 📝
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
