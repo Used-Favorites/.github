@@ -18,22 +18,22 @@ Used Favorites foca no desenvolvimento de soluções inovadoras de software. Nos
 Bem-vindo ao Used Favorites, o seu marketplace online para troca de produtos eletrônicos usados! Este projeto foi criado com o objetivo de proporcionar uma plataforma onde os usuários podem trocar, comprar e vender uma variedade de produtos eletrônicos, desde smartphones e laptops até consoles de videogame e acessórios.
 
 ## 📁 Visão Geral dos Repositórios
-### 1. 🧠 CognitiveCode
+### 1. 🧠 [CognitiveCode](https://github.com/Used-Favorites/cognitivecode) 
 **Linguagem:** Python  
-**Descrição:** Pesquisa e desenvolvimento de algoritmos e modelos de IA.
+**Descrição:** CognitiveCode é uma API que também contém o código-fonte da nossa inteligência artificial do YOLO, que captura fotografias para identificar possíveis problemas de hardware. Isso facilita que uma assistência técnica consiga realizar os reparos necessários, além de outros serviços.
 
-### 2. 🔗 API-Wrapper
+### 2. 🔗 [API-Wrapper](https://github.com/Used-Favorites/API-Wrapper)
 **Linguagem:** TypeScript  
-**Descrição:** Desenvolvimento de uma API escalável e robusta.
+**Descrição:** API-Wrapper é uma API de Express que documenta automaticamente para o Swagger, e envia as informações do banco de dados e da nossa inteligência artificial para o front-end.
 
-### 3. 🌐 AngularFlare
+### 3. 🌐 [AngularFlare](https://github.com/Used-Favorites/AngularFlare)
 **Linguagem:** TypeScript  
-**Descrição:** Construção de aplicações front-end dinâmicas e responsivas usando Angular e Capacitor.
+**Descrição:** AngularFlare é um site desenvolvido com Angular que, ao ser compilado, pode ser transformado em um aplicativo utilizando o Capacitor.
 
-### 4. 🛠️ .github
+### 4. 🛠️ [.github](https://github.com/Used-Favorites/.github)
 **Descrição:** Contém configurações gerais do GitHub para a organização.
 
-### 5. 📊 demo-database
+### 5. 📊 [demo-database](https://github.com/Used-Favorites/demo-database)
 **Descrição:** Demonstração de uma configuração de banco de dados relacional.
 
 ## 🚀 Funcionalidades Principais do Used Favorites
