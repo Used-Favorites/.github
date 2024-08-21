@@ -26,15 +26,14 @@ Bem-vindo ao Used Favorites, o seu marketplace online para troca de produtos ele
 **Linguagem:** TypeScript  
 **Descrição:** API-Wrapper é uma API de Express que documenta automaticamente para o Swagger, e envia as informações do banco de dados e da nossa inteligência artificial para o front-end.
 
-### 3. 🌐 [AngularFlare](https://github.com/Used-Favorites/AngularFlare)
-**Linguagem:** TypeScript  
-**Descrição:** AngularFlare é um site desenvolvido com Angular que, ao ser compilado, pode ser transformado em um aplicativo utilizando o Capacitor.
-
 ### 4. 🛠️ [.github](https://github.com/Used-Favorites/.github)
 **Descrição:** Contém configurações gerais do GitHub para a organização.
 
 ### 5. 📊 [demo-database](https://github.com/Used-Favorites/demo-database)
 **Descrição:** Demonstração de uma configuração de banco de dados relacional.
+
+### 6. <i class="fa-regular fa-code"></i> .[https://github.com/linknaka/NodeFlare.git]
+**Descrição:** NodeFlare é um repositório contendo os arquivos EJS,que fazem parte do front-end da nossa aplicação.
 
 ## 🚀 Funcionalidades Principais do Used Favorites
 - **Troca de Produtos:** Listagem de produtos para troca no marketplace.
@@ -47,7 +46,7 @@ O modelo do nosso projeto utiliza:
 - **Python:** Para criação da I.A. e módulos de reconhecimento de componentes eletrônicos.
 - **TypeScript:** Necessário para integração de serviços Python e Mobile.
 - **Serveo:** Para publicação de um host público na internet.
-- **Angular ou Flutter:** Para construção do front-end da aplicação.
+- **EJS,Express.js:** Para construção do front-end da aplicação.
 
 ## 🤝 Como Contribuir
 Estamos sempre abertos a contribuições para tornar o Used Favorites ainda melhor! Se você é um desenvolvedor interessado em colaborar, veja como você pode ajudar:
