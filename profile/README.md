@@ -32,7 +32,7 @@ Bem-vindo ao Used Favorites, o seu marketplace online para troca de produtos ele
 ### 5. 📊 [demo-database](https://github.com/Used-Favorites/demo-database)
 **Descrição:** Demonstração de uma configuração de banco de dados relacional.
 
-### 6. <i class="fa-regular fa-code"></i> .[https://github.com/linknaka/NodeFlare.git]
+### 6.🤖 [NodeFlare](https://github.com/linknaka/NodeFlare.git)
 **Descrição:** NodeFlare é um repositório contendo os arquivos EJS,que fazem parte do front-end da nossa aplicação.
 
 ## 🚀 Funcionalidades Principais do Used Favorites
