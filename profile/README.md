@@ -32,8 +32,8 @@ Bem-vindo ao Used Favorites, o seu marketplace online para troca de produtos ele
 ### 5. 📊 [demo-database](https://github.com/Used-Favorites/demo-database)
 **Descrição:** Demonstração de uma configuração de banco de dados relacional.
 
-### 6.🤖 [NodeFlare](https://github.com/linknaka/NodeFlare.git)
-**Descrição:** NodeFlare é um repositório contendo os arquivos EJS,que fazem parte do front-end da nossa aplicação.
+### 6.🤖 [React]()
+**Descrição:** React é um repositório contendo os arquivos React para o desenvolvimento da nossa aplicação.
 
 ## 🚀 Funcionalidades Principais do Used Favorites
 - **Troca de Produtos:** Listagem de produtos para troca no marketplace.
@@ -46,7 +46,7 @@ O modelo do nosso projeto utiliza:
 - **Python:** Para criação da I.A. e módulos de reconhecimento de componentes eletrônicos.
 - **TypeScript:** Necessário para integração de serviços Python e Mobile.
 - **Serveo:** Para publicação de um host público na internet.
-- **EJS,Express.js:** Para construção do front-end da aplicação.
+- **React.js:** Para construção do front-end da aplicação.
 
 ## 🤝 Como Contribuir
 Estamos sempre abertos a contribuições para tornar o Used Favorites ainda melhor! Se você é um desenvolvedor interessado em colaborar, veja como você pode ajudar:
